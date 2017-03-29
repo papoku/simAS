@@ -10,3 +10,5 @@ main.db - sqlite3 database, made up from fill.sql
 then, there is only one package, which has only _init_.. could be sufficient enough  
 database object has database as object (da-a) and cursor object, for communicating with database  
 command print for rows is bogus and obsololete, I am thinking of return format from database, and.. well.. it is yet to be considered.
+
+Its a github learning test pull !! ;)
